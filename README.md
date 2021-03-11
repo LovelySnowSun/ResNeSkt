@@ -3,16 +3,16 @@ ResNeSkt图像分类算法框架
 
 model中包含
 
-ResNeSkt
+1.ResNeSkt
 
-ResNeSt
+2.ResNeSt
 
-ResNeXt
+3.ResNeXt
 
-ResNet
+4.ResNet
 
-SENet
+5.SENet
 
-SKNet
+6.SKNet
 
-CBAM
+7.CBAM
